@@ -3,13 +3,12 @@
 
 This project detects human emotions such as happiness, sadness, anger, and surprise from text using **Natural Language Processing (NLP)** and **Machine Learning**.
 
----
 
 ## 📌 Overview
 With the rise of social media and online communication, understanding emotions from text has become vital.  
 This project uses text preprocessing, TF-IDF vectorization, and ML models like **Naive Bayes** and **Logistic Regression** to classify emotions.
 
----
+
 
 ## 🧠 Features
 - Cleaned and preprocessed text data
@@ -18,31 +17,13 @@ This project uses text preprocessing, TF-IDF vectorization, and ML models like *
 - Flask web interface for real-time prediction
 - Accuracy and performance visualizations
 
----
-
-## 🗂️ Project Structure
-```
-
-emotion-detection-nlp/
-│
-├── data/                    # Dataset used
-├── models/                  # Saved trained models
-├── notebook/                # Jupyter Notebook with analysis
-├── report/                  # Final project report (PDF)
-├── app.py                   # Flask app (UI)
-├── requirements.txt          # Dependencies
-└── README.md                # Project overview
-
-````
-
----
 
 ## ⚙️ Installation
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/Smuktha/emotion-detection-nlp.git
-````
+
 
 2. Navigate into the folder:
 
@@ -72,9 +53,6 @@ emotion-detection-nlp/
 | Naive Bayes         | 82%      | 0.80      | 0.79   | 0.79     |
 | Logistic Regression | **87%**  | 0.86      | 0.85   | 0.86     |
 
-📈 *See “report/EmotionDetection_Report.pdf” for complete results.*
-
----
 
 ## 💻 Technologies Used
 
@@ -85,7 +63,7 @@ emotion-detection-nlp/
 * Matplotlib
 * Pandas, NumPy
 
----
+
 
 ## 🧾 References
 
@@ -93,7 +71,7 @@ emotion-detection-nlp/
 2. Scikit-learn Documentation – [https://scikit-learn.org](https://scikit-learn.org)
 3. NLTK – [https://www.nltk.org](https://www.nltk.org)
 
----
+
 
 ## 👩‍💻 Author
 
@@ -102,11 +80,8 @@ emotion-detection-nlp/
 📍 India
 🌐 [LinkedIn](https://www.linkedin.com/in/muktha-suvarna12) | [GitHub](https://github.com/Smuktha)
 
----
 
 ````
-
----
 
 ### 🔼 6️⃣ Upload Everything to GitHub
 
@@ -120,8 +95,3 @@ git branch -M main
 git remote add origin https://github.com/Smuktha/emotion-detection-nlp.git
 git push -u origin main
 ````
-
----
-
-
-Would you like me to generate the `requirements.txt` and a `README.md` file for you automatically (formatted and ready to paste)?
