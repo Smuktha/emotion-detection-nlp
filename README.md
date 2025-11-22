@@ -1,4 +1,3 @@
-```markdown
 # 🎭 Emotion Detection in Text using NLP
 
 This project detects human emotions such as happiness, sadness, anger, and surprise from text using **Natural Language Processing (NLP)** and **Machine Learning**.
